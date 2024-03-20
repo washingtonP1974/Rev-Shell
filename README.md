@@ -24,3 +24,4 @@ A Python script to generate reverse shell payloads in various languages, includi
 <img src="https://github.com/washingtonP1974/Rev-Shell/blob/main/revshell.png"
 </div>
 
+For more specific payloads I recommend using https://www.revshells.com/
